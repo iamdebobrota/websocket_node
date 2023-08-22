@@ -1,0 +1,25 @@
+#container{
+    border: solid;
+    border-radius: 20px;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgba(239, 237, 237, 0.752);
+    gap: 10px;
+}
+.message{
+}
+
+.left{
+
+}
+.right{
+    text-align: right;
+
+}
+.bottom{
+    text-align: center;
+    font-size: 14px;
+}
